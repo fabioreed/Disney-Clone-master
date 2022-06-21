@@ -29,7 +29,6 @@
 ## 🚀 Installation
 
 ```
-$ git clone https://github.com/gabrielpasquantonio/Disney-Clone.git
 
 $ npm install
 $ npm start
