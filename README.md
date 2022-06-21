@@ -1,7 +1,6 @@
 # <div align="center">Disney Plus Clone </div>
 
-<a href="https://disney-plus-5b92e.web.app/"/>
-<img src="./main.png" />    </a>
+![Disney-Clone](https://user-images.githubusercontent.com/99282728/174812449-1fa6061e-3abd-4046-bdca-895638bd1ebd.png)
 
 ## <a href="https://disney-plus-5b92e.web.app/" target="_blank">LIVE DEMO</a>
 
